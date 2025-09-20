@@ -99,9 +99,9 @@ Connect your components as follows:
 ## 🧑‍💻 Author
 
 **Smart Serra Project**  
-Created by [Your Name]  
+Created by dammm  
 📍 Malaysia  
-📧 your@email.com
+📧 dammnn06@email.com
 
 ---
 
